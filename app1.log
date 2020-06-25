@@ -1,0 +1,11 @@
+2020-06-18 14:47:30.479  INFO 15224 --- [main] k.a.h.cse.HelloSpringBootApplication     : Starting HelloSpringBootApplication on DESKTOP-5KQMRA6 with PID 15224 (C:\dev\workspace\helloSpringBoot\target\classes started by hajis in C:\dev\workspace\helloSpringBoot)
+2020-06-18 14:47:30.494  INFO 15224 --- [main] k.a.h.cse.HelloSpringBootApplication     : No active profile set, falling back to default profiles: default
+2020-06-18 14:47:39.256  INFO 15224 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2020-06-18 14:47:39.319  INFO 15224 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-18 14:47:39.321  INFO 15224 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-18 14:47:40.013  INFO 15224 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-18 14:47:40.014  INFO 15224 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 9207 ms
+2020-06-18 14:47:42.611  INFO 15224 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-18 14:47:42.948  INFO 15224 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-06-18 14:47:43.778  INFO 15224 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2020-06-18 14:47:43.822  INFO 15224 --- [main] k.a.h.cse.HelloSpringBootApplication     : Started HelloSpringBootApplication in 16.491 seconds (JVM running for 19.143)
